@@ -226,16 +226,15 @@ footer p a:hover{
   }
 
   .hiding{
-    height:90%;
-    width:90%;
+    width:95%;
     padding:10px;
     margin:10px;
     box-sizing: border-box;
+    background-color:transparent;
   }
 
   .maincontent{
-    height:90%;
-    width:90%;
+    width:95%;
     padding:10px;
     margin:10px;
     box-sizing: border-box;
